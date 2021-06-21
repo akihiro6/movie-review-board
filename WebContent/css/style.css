@@ -113,3 +113,7 @@ table#review_list .review_title {
 table#review_list .review_review {
     width: 13%;
 }
+
+pre {
+    font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
+}

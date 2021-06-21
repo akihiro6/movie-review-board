@@ -48,6 +48,7 @@ public class ReviewsCreateServlet extends HttpServlet {
             }
             r.setReviewDate(reviewDate);
 
+            r.setName(request.getParameter("name"));
             r.setTitle(request.getParameter("title"));
             r.setImpression(request.getParameter("impression"));
 
