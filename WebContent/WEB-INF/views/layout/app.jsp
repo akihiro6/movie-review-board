@@ -17,6 +17,7 @@
                 ${param.content}
             </div>
             <div id="footer">
+                MovieReviewBoard
             </div>
         </div>
     </body>
